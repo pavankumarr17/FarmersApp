@@ -1,0 +1,9 @@
+
+Symptoms of SMV vary with variety, virus strain, environment, and age of plant at infection. Most varieties will be stunted and have fewer pods. Trifoliate leaves will have a mosaic of light and dark green areas that may become blistered or raised with time. Leaves may appear distorted, generally with the leaf margins curling downward. Symptoms are most severe during cool weather and infection is rarely evident during Nebraska summers. The length of time between infection and appearance of symptoms also varies with temperature. Seed from infected plants can be mottled black or brown depending on hilum color. Not all infected plants produce mottled seed and seed mottling does not indicate that the virus in present in the seed.
+
+The use of certified virus-free seeds and timing of planting are crucial to avoid high vector populations when plants are still young. Infected seeds are the most important way that SMV is transmitted and serve as a primary source of infection for later dispersal by aphids. Late planting coincides with higher populations of aphids, which may increase the probability of virus transmission to young seedlings. Infection in the early growth stages has the highest impact in yield loss and seed quality compared to infection late in the life cycle. Serological and molecular techniques for screening viral presence in seeds can be used for detection in seed lots
+
+At least three naturally occurring independent loci (Rsv1, Rsv3 and Rsv4) have been identified and mapped for resistance to SMV. Because of the high variability of SMV, use of single resistance genes is potentially dangerous and pyramiding available sources of resistance is recommended to achieve disease control.
+
+nil 
+
