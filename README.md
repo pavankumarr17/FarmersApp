@@ -1,4 +1,4 @@
-# FarmersApp
+# FarmersApp - Fix O'Krop
 SIH 2019 project
 
 National Level Smart India Hackathon 2019, a nationwide initiative by the Ministry of Education's Innovation Cell
